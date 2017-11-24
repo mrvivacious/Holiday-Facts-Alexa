@@ -5,12 +5,7 @@ This little skill will tell you what holidays it has facts for.
 What Alexa will speak depends on what you say!
 Happy holidays ;)
 
-Supported holidays:
-Valentine's Day
-Easter
-Halloween
-Thanksgiving
-Christmas
+Supported holidays: \nValentine's Day \nEaster \nHalloween \nThanksgiving \nChristmas
 
 
 For the November 2017 Alexa promo
