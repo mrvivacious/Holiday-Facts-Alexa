@@ -8,13 +8,9 @@ Happy holidays ;)
 Supported holidays: 
 
 Valentine's Day 
-
 Easter 
-
 Halloween 
-
 Thanksgiving 
-
 Christmas
 
 
