@@ -7,11 +7,13 @@ Happy holidays ;)
 
 Supported holidays: 
 
-Valentine's Day 
-Easter 
-Halloween 
-Thanksgiving 
-Christmas
+<ul>
+  <li>Valentine's Day</li>
+  <li>Easter</li>
+  <li>Halloween</li> 
+  <li>Thanksgiving</li> 
+  <li>Christmas</li>
+</ul>
 
 
 
