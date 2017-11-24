@@ -15,6 +15,6 @@ Supported holidays:
   <li>Christmas</li>
 </ul>
 
-
-
-For the November 2017 Alexa promo
+<br>
+<br>
+Icon was made with https://icons8.com/ 
